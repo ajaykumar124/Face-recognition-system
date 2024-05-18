@@ -25,6 +25,12 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install opencv-python-headless face_recognition numpy Pillow
+pip install opencv-python-headless
+pip install face_recognition
+pip install numpy
+pip install Pillow
+pip install tk
+
 ```
 
 ## Setting Up
